@@ -1,5 +1,5 @@
 ---
-https://github.com/JessiP23/prework-study-guide/blob/8f268d5d3f7c265e8ac7ba755012f1bfbecb1b4c/prework-study-guide/index.html
+permalink: /index.html
 ---
 
 # <Your-Project-Title>
